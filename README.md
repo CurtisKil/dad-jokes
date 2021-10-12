@@ -11,7 +11,3 @@ This is a dad joke app that generates a dad joke on the click of a button. It us
 ![](dad-jokes.gif)
 
 https://curtiskil.github.io/dad-jokes/
-
-## Contributors
-
-Brad Traversy. Florin Pop.
